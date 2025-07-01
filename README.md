@@ -43,7 +43,10 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
 -->
 <h3>i may not have a brain gentlemen/gentlewomen, but im good at using these: 
+  <div class="tenor-gif-embed" data-postid="17678677997750383620" data-share-method="host" data-aspect-ratio="2.34906" data-width="100%"><a href="https://tenor.com/view/i-may-not-have-a-brain-gentlemen-but-i-have-an-idea-gif-17678677997750383620">I May Not Have A Brain Gentlemen But I Have An Idea GIF</a>from <a href="https://tenor.com/search/i+may+not+have+a+brain+gentlemen+but+i+have+an+idea-gifs">I May Not Have A Brain Gentlemen But I Have An Idea GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <!--
 <img alt="Proud" src="https://em-content.zobj.net/content/2020/07/27/proud.png" width="40px" height="40px"/>
+  -->
 </h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
