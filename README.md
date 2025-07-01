@@ -39,16 +39,15 @@ Here are some ideas to get you started:
 
 -->
 ### 👋 Hi mates, I'm Youhanna!
-
 ---
 <!--
 ![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
 -->
-<h3>i may not have a brain gentlemen/gentlewomen, but im good at using these: 
- <img alt="Proud" src="https://media1.tenor.com/m/0dO6QUHVSyEAAAAC/yellow-mm.gif" width="30px" height="30px"/>
+<h3>i may not have a brain gentlemen, but im good at using these: 
   <!--
 <img alt="Proud" src="https://em-content.zobj.net/content/2020/07/27/proud.png" width="40px" height="40px"/>
   -->
+  <img alt="Proud" src="<img alt="Proud" src="https://em-content.zobj.net/content/2020/07/27/proud.png" width="40px" height="40px"/>" width="40px" height="40px"/>
 </h3>
 
 <p>
