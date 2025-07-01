@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
 -->
 <h3>i may not have a brain gentlemen/gentlewomen, but im good at using these: 
- <img alt="Proud" src="https://em-content.zobj.net/source/apple/419/smirking-face_1f60f.png" width="20px" height="20px"/>
+ <img alt="Proud" src="https://em-content.zobj.net/source/apple/419/smirking-face_1f60f.png" width="30px" height="30px"/>
   <!--
 <img alt="Proud" src="https://em-content.zobj.net/content/2020/07/27/proud.png" width="40px" height="40px"/>
   -->
