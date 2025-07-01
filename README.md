@@ -38,19 +38,18 @@ Here are some ideas to get you started:
 </p>
 
 -->
-### 👋 Hi mates, I'm Youhanna!
+### 👋 Hi, I'm Youhanna!
 ---
 <!--
 ![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
 -->
+<img alt="Proud" src="https://y.yarn.co/da358bd0-d32b-479d-ab7b-c409ce6fe1cd_screenshot.jpg" height="70px"/>
 <h3>i may not have a brain gentlemen, but im good at using these: 
   <!--
 <img alt="Proud" src="https://em-content.zobj.net/content/2020/07/27/proud.png" width="40px" height="40px"/>
   -->
-  <b>
- <img alt="Proud" src="https://y.yarn.co/da358bd0-d32b-479d-ab7b-c409ce6fe1cd_screenshot.jpg" height="70px"/>
-</h3>
 
+</h3>
 <p>
   <img alt=Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img alt=Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
