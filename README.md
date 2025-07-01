@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <!--
 ![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
 -->
-<img alt="Proud" src="https://y.yarn.co/da358bd0-d32b-479d-ab7b-c409ce6fe1cd_screenshot.jpg" height="90px"/>
+<img alt="Proud" src="https://y.yarn.co/da358bd0-d32b-479d-ab7b-c409ce6fe1cd_screenshot.jpg" height="140px"/>
 <h3>i may not have a brain gentlemen, but im good at using these: 
   <!--
 <img alt="Proud" src="https://em-content.zobj.net/content/2020/07/27/proud.png" width="40px" height="40px"/>
