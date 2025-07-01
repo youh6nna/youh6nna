@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <!--
 <img alt="Proud" src="https://em-content.zobj.net/content/2020/07/27/proud.png" width="40px" height="40px"/>
   -->
-  <img alt="Proud" src="<img alt="Proud" src="https://em-content.zobj.net/content/2020/07/27/proud.png" width="40px" height="40px"/>" width="40px" height="40px"/>
+  img alt="Proud" src="<img alt="Proud" src="https://y.yarn.co/da358bd0-d32b-479d-ab7b-c409ce6fe1cd_screenshot.jpg" width="40px" height="40px"/>
 </h3>
 
 <p>
