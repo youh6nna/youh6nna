@@ -43,12 +43,12 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
 -->
 <h3>i may not have a brain gentlemen/gentlewomen, but im good at using these: 
- 
+ <img alt="Proud" src="https://em-content.zobj.net/source/apple/419/smirking-face_1f60f.png" width="40px" height="40px"/>
   <!--
 <img alt="Proud" src="https://em-content.zobj.net/content/2020/07/27/proud.png" width="40px" height="40px"/>
   -->
 </h3>
-<img alt="Proud" src="https://em-content.zobj.net/source/apple/419/smirking-face_1f60f.png" width="40px" height="40px"/>
+
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
