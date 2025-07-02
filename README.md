@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 -->
 ### 👋 Hi, I'm Youhanna!
+### Programmer/Network Learner/CE Student
+### Learning Every damn day 
 ---
 <!--
 ![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
@@ -48,7 +50,10 @@ Here are some ideas to get you started:
   <!--
 <img alt="Proud" src="https://em-content.zobj.net/content/2020/07/27/proud.png" width="40px" height="40px"/>
   -->
+<p>
+  Hey, I'm Youhanna Zaeri. I study Computer Engineering and spend most of my time either writing code or tearing it apart(mostly this one). My main focus right now is backend dev, network security, and Python-based tooling. I’ve worked with a bunch of technologies, but I care more about mastering the essentials than chasing every trend. i started entering tech in 2016 with electronics and arduino and stuff... to this day i tried learning as much as i can to improve myself.
 
+</p>
 </h3>
 <p>
   <img alt=Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
