@@ -45,15 +45,16 @@ Here are some ideas to get you started:
 <!--
 ![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
 -->
+<p>
+  Hey, I'm Youhanna Zaeri. I study Computer Engineering and spend most of my time either writing code or tearing it apart(mostly this one). My main focus right now is backend dev, network security, and Python-based tooling. I’ve worked with a bunch of technologies, but I care more about mastering the essentials than chasing every trend. i started entering tech in 2016 with electronics and arduino and stuff... to this day i tried learning as much as i can to improve myself.
+
+</p>
 <img alt="Proud" src="https://y.yarn.co/da358bd0-d32b-479d-ab7b-c409ce6fe1cd_screenshot.jpg" height="140px"/>
 <h3>i may not have a brain gentlemen, but im good at using these: 
   <!--
 <img alt="Proud" src="https://em-content.zobj.net/content/2020/07/27/proud.png" width="40px" height="40px"/>
   -->
-<p>
-  Hey, I'm Youhanna Zaeri. I study Computer Engineering and spend most of my time either writing code or tearing it apart(mostly this one). My main focus right now is backend dev, network security, and Python-based tooling. I’ve worked with a bunch of technologies, but I care more about mastering the essentials than chasing every trend. i started entering tech in 2016 with electronics and arduino and stuff... to this day i tried learning as much as i can to improve myself.
 
-</p>
 </h3>
 <p>
   <img alt=Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
