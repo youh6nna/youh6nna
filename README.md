@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-> "I may not have a brain, gentlemen, but I'm good at using these:"
+> "Im not a professional by anymeans, but these are the things i use;:"
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
@@ -50,7 +50,3 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="B1" src="https://y.yarn.co/da358bd0-d32b-479d-ab7b-c409ce6fe1cd_screenshot.jpg" height="150px"/>
-</p>
