@@ -19,7 +19,7 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <!-- <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
@@ -27,15 +27,13 @@
 </p>
 
 **Environment:**  
-`Arch Linux` 🏔️ (I use Arch BTW) | `KDE Plasma` ⚙️ | `Windows` 🪟
+`Arch Linux` 🏔️ (I use Arch BTW :| ) | `KDE Plasma, Sway` ⚙️ | `Windows` 🪟
 
 ---
 
 ### 🚀 What I'm Up To
 - 🛒 **Current Project:** Building a fully featured, custom backend architecture for an e-commerce platform utilizing Django, MySQL, and Bootstrap 5.
 - 📡 **Hardware & Edge AI:** Prototyped an intelligent bus passenger counter utilizing an ESP32-S3, time-of-flight array sensors, and background-subtraction logic to isolate human movement from cargo.
-- 🐧 **Deep Work:** Optimizing native build environments and troubleshooting low-level Linux/mobile device kernel recovery tasks.
-
 ---
 
 ### 🤝 Connect with Me
